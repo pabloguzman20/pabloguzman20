@@ -4,7 +4,7 @@ Hi 👋 My name is Pablo Guzmán
 Web Developer | Mobile Developer
 --------------------------------
 
-I'm a Computer Engineer with 1.5 year of experience in the development of software projects on the frontend and backend side. I have experience developing API's, REST services, SPA, web applications and I am currently developing mobile applications for iOS and Android!
+I'm a Computer Engineer with 2.5 year of experience in the development of software projects on the frontend and backend side. I have experience developing API's, REST services, SPA, web applications and mobile applications for iOS and Android!
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [guzmancortezp@gmail.com](mailto:guzmancortezp@gmail.com)
